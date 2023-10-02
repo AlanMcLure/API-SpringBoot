@@ -1,0 +1,8 @@
+# Archivos de código fuente Java
+*.java text
+
+# Archivos de recursos (no código fuente)
+src/main/resources/* text
+
+# Archivos binarios que no deben ser tocados
+*.png binary
